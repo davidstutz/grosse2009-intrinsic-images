@@ -8,7 +8,7 @@ This repository contains the code published together with the MIT Intrinsic Imag
 
 Below you find the original README of the code.
 
-**Work in Progress:** A command line tool for running the color Retinex algorithm as described in [1] is included (`retinex.py`).
+A command line tool for running the color Retinex algorithm as described in [1] is included (`retinex.py`).
 
 ## Original README
 
